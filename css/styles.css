@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+.navbar-light .navbar-brand {
+  color: white;
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 1.5rem;
+}
+h2 {
+  font-family: "Tilt Prism", cursive;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+h5 {
+  font-family: "Calibri";
+}
+
+.title-1 {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 7%;
+  padding-bottom: 25%;
+}
+#firstpage {
+  color: white;
+  background-image: url(https://blog.isa.org/hubfs/machine-learning.jpg#keepProtocol);
+  /* background-size: 100%;
+  background-position: center;
+  background-repeat: unset;
+  width: 100%; */
+}
+.icon_p1 {
+  text-align: center;
+  margin: 20px 10px;
+}
+
+#secondpage {
+  padding: 2% 10%;
+  background-color: #daddfc;
+}
+
+.feature-box {
+  text-align: center;
+  justify-content: center;
+  padding: 7% 15%;
+  border-radius: 10%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 1.5rem;
+}
+.icon5 {
+  justify-content: center;
+  text-align: center;
+  padding: 10% 25%;
+  color: rgb(43, 169, 207);
+}
+.whats_new {
+  margin-top: 50%;
+}
+
+.whats {
+  justify-content: center;
+  text-align: center;
+  padding-top: 15%;
+}
+.imgnew {
+  border-radius: 15%;
+  width: 60px;
+  height: 80px;
+}
+#thirdpage {
+  background-color: #7db9b6;
+  justify-content: center;
+
+  padding: 3% 5%;
+}
+
+.the_team {
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.headerpositioning {
+  color: #000;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.imagebox {
+  position: relative;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 1px 2px 10px 5px #000;
+}
+
+.brand-icon {
+  position: relative;
+  color: rgb(0, 65, 163);
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  padding: 5%;
+  padding-bottom: 5%;
+  border-radius: 50%;
+  background-color: rgb(198, 222, 222);
+  box-shadow: 1px 2px 10px 5px #5f91b5;
+}
+
+.profiles {
+  font-family: "Shantell Sans", cursive;
+  background: rgba(0, 0, 0, 0.7);
+  top: -120%;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  padding: 100px 20px;
+  box-sizing: border-box;
+  transition: all 0.5s;
+}
+
+.imagebox:hover .profiles {
+  top: 0;
+}
+
+hr {
+  block-size: 1.5rem;
+  visibility: hidden;
+}
+#seventhpage {
+  background-color: #7db9b6;
+  justify-content: center;
+  padding: 3% 5%;
+}
+#eighthpage {
+  background-color: #daddfc;
+  justify-content: center;
+  padding: 3% 5%;
+}
+#ninthpage {
+  padding: 7% 15%;
+}
+#footer {
+  padding-top: 2.5%;
+  padding-bottom: 1%;
+  background-color: black;
+  color: rgb(252, 249, 249);
+  text-align: center;
+}
+
+.brands-icon {
+  margin: 20px 10px;
+}
+
+#titlez {
+  color: rgb(250, 250, 254);
+  background-image: url(https://images.pexels.com/photos/1773113/pexels-photo-1773113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#container {
+  padding: 5% 5%;
+}
+#titlez1 {
+  color: white;
+  background-image: url(https://images.pexels.com/photos/2249063/pexels-photo-2249063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: contain;
+}
+
+#header1 {
+  justify-content: center;
+
+  padding: 3% 7%;
+}
+
+.dropdown-menu:hover {
+  color: #fff;
+}
+
+#publications {
+  padding: 0% 7%;
+}
+
+.footerimg {
+  position: relative;
+  bottom: 20%;
+}
+
+#fourthpage {
+  justify-content: center;
+  background-color: #daddfc;
+  padding: 3% 5%;
+}
+
+.phd {
+  padding-bottom: 3%;
+}
+
+#fifthpage {
+  justify-content: center;
+  background-color: #7db9b6;
+  padding: 3% 5%;
+}
+
+#sixthpage {
+  justify-content: center;
+  background-color: #daddfc;
+  padding: 3% 5%;
+}
+
+.font-size2 {
+  font-weight: bold;
+}
+
+.imagespon {
+  position: relative;
+  box-shadow: 1px 2px 10px 5px #000;
+}
