@@ -1,0 +1,578 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top bg-transparent">
+    <div class="container">
+        <img src="https://nitdgp.ac.in/front/assets/images/logo.png" alt="">
+        <a class="navbar-brand fw-bold" href="#">NI<span
+                style="color: rgb(134, 31, 120);font-size: 2rem;">T_D</span>GP</a>
+        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarSupportedContent" style="">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html" style="color: white;">HOME</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="publications.html">PUBLICATIONS</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        RESEARCH AREA
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="hci.html">HCI</a></li>
+                        <li><a class="dropdown-item" href="networking.html">NETWORKING</a></li>
+                        <li><a class="dropdown-item" href="iot.html">IOT</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="sponsored.html">SPONSORED PROJECT</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/subrata-nandi"
+                                    target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> vijay shah</h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">satadal sengupta</h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> Rohit</h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Bisakh Mondal</h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/subrata-nandi"
+                                    target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> Prasenjit Karmakar</h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Argha </h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/subrata-nandi"
+                                    target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> Chandrika</h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Arghaprava</h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/subrata-nandi"
+                                    target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> Sunny</h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Naman Mehta</h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr>
+<div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card mb-3 " style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/subrata-nandi"
+                                    target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"> Dhiraj </h5>
+                            <p> I am a former student of NIT Durgapur from the CSE department, and I feel proud to be a
+                                NITian(Durgapur). </p>
+                            <p class="card-text"><small class="text-muted "> <em>Thank you</em> </small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-6  ">
+            <div class="card mb-3 ms-auto" style="max-width: 650px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <div class="imagebox">
+                            <img src="../html/img/labalumini.png" class="w-100 border-radius-md shadow-lg img5"
+                                alt="...">
+                            <div class="profiles">
+                                <p><em>Social links :</em></p>
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-linkedin brand-icon"></i>
+                                </a>
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-brands fa-2x fa-google brand-icon"></i>
+                                </a>
+
+
+
+                                <a href="#" target="_blank">
+                                    <i class="fa-sharp fa-2x fa-solid fa-building-columns brand-icon"></i>
+                                </a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Ananya</h5>
+                            <p class="card-text">I am a former student of NIT Durgapur from the CSE department, and I
+                                feel proud to be a NITian(Durgapur).</p>
+                            <p class="card-text"><small class="text-muted"> <em>Thank you</em></small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
