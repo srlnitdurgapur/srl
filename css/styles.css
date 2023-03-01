@@ -117,6 +117,7 @@ h5 {
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 1px 2px 10px 5px #000;
+  cursor: pointer;
 }
 
 .brand-icon {
@@ -161,6 +162,76 @@ hr {
   justify-content: center;
   padding: 3% 5%;
 }
+
+.brand-iconalum {
+  position: relative;
+  color: rgb(5, 36, 83);
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  padding: 5%;
+  padding-bottom: 5%;
+  border-radius: 50%;
+  background-color: rgb(198, 222, 222);
+  box-shadow: 1px 2px 10px 5px #5f91b5;
+}
+
+.profilesalum {
+  font-family: "Shantell Sans", cursive;
+  background: rgba(0, 0, 0, 0.7);
+  top: -140%;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  padding: 100px 10px;
+  box-sizing: border-box;
+  transition: all 0.5s;
+}
+
+.imagebox:hover .profilesalum {
+  top: -20%;
+}
+
+/* carousel */
+.card-title {
+  text-align: center;
+}
+
+.aluminicard {
+  position: relative;
+
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.profiles1 {
+  font-family: "Shantell Sans", cursive;
+  background: rgba(0, 0, 0, 0.7);
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  padding: 100px 20px;
+  box-sizing: border-box;
+
+  transition: all 0.5s;
+}
+
+.aluminicard:hover .profiles1 {
+  top: 0;
+}
+
+#labalum {
+}
+
 #eighthpage {
   background-color: #daddfc;
   justify-content: center;
@@ -263,3 +334,62 @@ hr {
   width: 60%;
   box-shadow: 1px 1px 10px 1px #000;
 }
+
+/* try3 */
+
+/* body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Raleway", Arial, sans-serif;
+  background: #7f9ead;
+}
+
+.card {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
+  padding: 30px 50px;
+  background: #fff;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+.card:hover {
+  height: 320px;
+}
+
+.imgbox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-80px);
+  z-index: 99;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.content {
+  padding: 10px 20px;
+  text-align: center;
+  transform: translateY(-450px);
+  opacity: 0;
+  transition: 0.3s;
+}
+
+.card:hover > .content {
+  opacity: 1;
+  transform: translateY(-180px);
+}
+
+.content h2 {
+  color: #7f9ead;
+} */
