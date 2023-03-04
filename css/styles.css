@@ -3,11 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .navbar-light .navbar-nav .nav-link {
   color: white;
   font-family: sans-serif;
   font-size: 1rem;
 }
+
 .navbar-light .navbar-brand {
   color: white;
   font-size: 2.5rem;
@@ -26,7 +28,25 @@ h2 {
 }
 
 h3 {
+  position: relative;
+  color: #fff !important;
   font-family: "Roboto", sans-serif;
+  background-color: #7e3987;
+  left: -30px;
+  display: inline-block;
+  padding: 5px 20px;
+  box-shadow: 7px 4px 10px rgba(0, 0, 0, 0.3);
+}
+h3::before {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 40px;
+  background-color: #cab7b7;
+  transform: rotate(90deg);
+  z-index: -1;
+  left: -7px;
+  top: -7px;
 }
 
 h5 {
@@ -100,10 +120,6 @@ h5 {
 .the_team {
   text-align: center;
   padding-bottom: 3%;
-}
-
-.headerpositioning {
-  color: #000;
 }
 
 .card {
@@ -282,8 +298,9 @@ hr {
   padding: 3% 5%;
 }
 
-.phd {
-  padding-bottom: 3%;
+.headerpositioning {
+  padding-top: 0%;
+  padding-bottom: 5%;
   padding-left: 3%;
 }
 
@@ -342,7 +359,7 @@ hr {
   border-radius: 20%;
   box-shadow: 2px 5px 15px 1px #050505;
   background-color: #bcbcb7;
-
+  transition: 0.4s;
   cursor: pointer;
 }
 .testimonial-image {
@@ -390,4 +407,5 @@ hr {
 
 .testimonial-content:hover {
   background-color: #b2f9fc;
+  transform: scale(1.1);
 }
