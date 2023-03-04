@@ -335,64 +335,7 @@ hr {
 
 /* try3 */
 
-/* body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Raleway", Arial, sans-serif;
-  background: #7f9ead;
-}
-
-.card {
-  position: relative;
-  width: 300px;
-  height: 200px;
-  border-radius: 10px;
-  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
-  transition: 0.3s;
-  padding: 30px 50px;
-  background: #fff;
-  cursor: pointer;
-  margin-right: 30px;
-}
-
-.card:hover {
-  height: 320px;
-}
-
-.imgbox {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  transform: translateY(-80px);
-  z-index: 99;
-}
-
-img {
-  width: 100%;
-  border-radius: 10px;
-  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
-}
-
-.content {
-  padding: 10px 20px;
-  text-align: center;
-  transform: translateY(-450px);
-  opacity: 0;
-  transition: 0.3s;
-}
-
-.card:hover > .content {
-  opacity: 1;
-  transform: translateY(-180px);
-}
-
-.content h2 {
-  color: #7f9ead;
-} */
-
-.styss {
+.testimonial-content {
   position: relative;
   padding: 0% 6%;
   bottom: 2px;
@@ -402,17 +345,17 @@ img {
 
   cursor: pointer;
 }
-.zakk {
+.testimonial-image {
   position: relative;
   bottom: 15px;
   border-radius: 10px;
   cursor: pointer;
 }
 
-.zzak3 {
+.testimonial-title {
   border-bottom: 2px solid black;
 }
-.zakk2 {
+.testimonial-text {
   padding: 0% 0%;
   text-align: center;
 }
@@ -426,7 +369,7 @@ img {
   height: 370px;
 }
 
-.card:hover .zakk2 {
+.card:hover .testimonial-text {
   opacity: 1;
   transform: translateY(10px);
 } */
@@ -436,4 +379,15 @@ img {
     width: 48% !important;
     padding-bottom: 10% !important;
   }
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+
+.testimonial-content:hover {
+  background-color: #b2f9fc;
 }
