@@ -53,6 +53,21 @@ h5 {
   font-family: "Calibri";
 }
 
+select {
+  padding: 7px 10px;
+  color: #1a5277;
+  font-weight: 700;
+  box-shadow: 7px 4px 10px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+option {
+  padding: 7px 10px;
+  color: #1a5277;
+  font-weight: 500;
+  box-shadow: 7px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
 .title-1 {
   text-align: center;
   justify-content: center;
@@ -466,6 +481,24 @@ hr {
   cursor: pointer;
 }
 
+#publication {
+  padding: 2% 5%;
+}
 .dropd {
-  padding-bottom: 5%;
+  text-align: center;
+  justify-content: center;
+}
+
+#person-list {
+  background-color: #eee;
+  background-image: linear-gradient(to top, #ddd, #eee 50%);
+}
+.radioh {
+  text-align: center;
+  justify-content: center;
+}
+
+#headerpub {
+  padding: 1% 3%;
+  padding-bottom: 2%;
 }
