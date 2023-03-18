@@ -66,7 +66,7 @@
                 <a class="nav-link" href="sponsored.html"><b>SPONSORED PROJECT</b> </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"><b>GALLERY</b></a>
+                <a class="nav-link" href="gallery.html"><b>GALLERY</b></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#"><b>MEDIA</b></a>
@@ -1244,9 +1244,11 @@
       projects.forEach(project => {
         if (projectType === 'all') {
           project.style.display = 'block';
+
         } else if (projectType === 'top') {
           const isTopProject = project.textContent.toLowerCase().includes('top');
           project.style.display = isTopProject ? 'block' : 'none';
+
         } else if (projectType === 'best') {
           const isBestProject = project.textContent.toLowerCase().includes('best');
           project.style.display = isBestProject ? 'block' : 'none';
